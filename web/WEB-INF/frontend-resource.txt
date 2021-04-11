@@ -1,0 +1,5 @@
+.css
+.png
+.svg
+.js
+.map

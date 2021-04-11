@@ -1,0 +1,15 @@
+login-page
+login
+logout
+student-page
+load-student-page
+attempt-quiz
+quiz-page
+submit-quiz
+submit-error-page
+quiz-result-page
+load-quiz-result-page-servlet
+quiz-history
+resume-quiz
+search-quiz
+load-quiz-history-servlet
